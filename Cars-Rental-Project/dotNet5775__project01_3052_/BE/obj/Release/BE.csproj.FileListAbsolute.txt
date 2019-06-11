@@ -1,0 +1,15 @@
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Release\BE.dll
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Release\BE.pdb
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.dll
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Release\BE.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Release\BE.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.pdb
+E:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Release\BE.dll
+E:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Release\BE.pdb
+E:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+E:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.dll
+E:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.pdb

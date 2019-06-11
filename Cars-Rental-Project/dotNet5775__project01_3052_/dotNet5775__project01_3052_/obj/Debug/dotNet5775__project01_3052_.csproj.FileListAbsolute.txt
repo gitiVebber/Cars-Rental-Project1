@@ -1,0 +1,16 @@
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\bin\Debug\dotNet5775__project01_3052_.exe.config
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\bin\Debug\dotNet5775__project01_3052_.exe
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\bin\Debug\dotNet5775__project01_3052_.pdb
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\obj\Debug\dotNet5775__project01_3052_.csprojResolveAssemblyReference.cache
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\obj\Debug\dotNet5775__project01_3052_.exe
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\obj\Debug\dotNet5775__project01_3052_.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\bin\Debug\dotNet5775__project01_3052_.exe.config
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\obj\Debug\dotNet5775__project01_3052_.exe
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\obj\Debug\dotNet5775__project01_3052_.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\obj\Debug\dotNet5775__project01_3052_.csprojResolveAssemblyReference.cache
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\bin\Debug\dotNet5775__project01_3052_.exe
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\bin\Debug\dotNet5775__project01_3052_.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\bin\Debug\BE.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\bin\Debug\DAL.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\bin\Debug\BE.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\dotNet5775__project01_3052_\bin\Debug\DAL.pdb

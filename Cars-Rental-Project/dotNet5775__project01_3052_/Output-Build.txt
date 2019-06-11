@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: BE, Configuration: Release Any CPU ------
+1>  BE -> F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Release\BE.dll
+2>------ Build started: Project: DAL, Configuration: Release Any CPU ------
+2>  DAL -> F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\DAL\bin\Release\DAL.dll
+3>------ Build started: Project: BL, Configuration: Release Any CPU ------
+3>  BL -> F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BL\bin\Release\BL.dll
+========== Build: 3 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========

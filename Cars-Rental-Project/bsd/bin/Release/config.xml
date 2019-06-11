@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configs>
+  <numberCar>10000008</numberCar>
+  <numberRenting>10000005</numberRenting>
+  <numberFault>10000000</numberFault>
+</configs>

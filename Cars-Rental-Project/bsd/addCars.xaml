@@ -1,0 +1,221 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:BE="clr-namespace:BE;assembly=BE" mc:Ignorable="d" x:Class="bsd.addCars"
+        Title="addCars" Height="483.822" Width="684.359" Loaded="Window_Loaded_1">
+    <Window.Resources>
+        <CollectionViewSource x:Key="carViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Car}, CreateList=True}"/>
+        <CollectionViewSource x:Key="tybeCarViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:TybeCar}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid Margin="0,0,-360,-176">
+
+        <Grid Background="#FFE5E5E5" Margin="0,0,360,0" Height="461" Width="Auto" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="87*"/>
+                <ColumnDefinition Width="0*"/>
+                <ColumnDefinition Width="87*"/>
+                <ColumnDefinition Width="29*"/>
+                <ColumnDefinition Width="93*"/>
+            </Grid.ColumnDefinitions>
+            <Grid x:Name="grid1"  HorizontalAlignment="Left" Margin="25,40,0,0" VerticalAlignment="Top" Width="380" Height="36" Grid.ColumnSpan="4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" MinWidth="17"/>
+                    <ColumnDefinition Width="Auto" MinWidth="305"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid x:Name="grid5" DataContext="{StaticResource carViewSource}" HorizontalAlignment="Left" Margin="4,10,0,-6" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="324">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Label Content="adress Branch:" Grid.Column="0" HorizontalAlignment="Left" Margin="-3,3,0,5" Grid.Row="0" VerticalAlignment="Center"/>
+                    <ComboBox x:Name="adressBranchComboBox" Grid.Column="1"  HorizontalAlignment="Left" Height="24" ItemsSource="{Binding}" Margin="46,3,-35,7" Grid.Row="0" VerticalAlignment="Center" Width="144">
+                        <ComboBoxItem Content="beny brak"/>
+                        <ComboBoxItem Content="beytar"/>
+                        <ComboBoxItem Content="jeruzalem"/>
+
+
+                    </ComboBox>
+                </Grid>
+            </Grid>
+            <Grid x:Name="grid2"  HorizontalAlignment="Left" Margin="10,76,0,0" VerticalAlignment="Top" Height="36" Width="338" Grid.ColumnSpan="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <DatePicker x:Name="creatureCarDatePicker" Grid.Column="1" Margin="74,5,-168,9" Grid.Row="0" SelectedDate="{Binding creatureCar, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="144" Height="25"/>
+                <Grid x:Name="grid13" DataContext="{StaticResource carViewSource}" HorizontalAlignment="Left" Margin="0,10,0,-3" Grid.ColumnSpan="2" Width="338" Height="32" VerticalAlignment="Top">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="48.687"/>
+                        <ColumnDefinition Width="31.313"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="4*"/>
+                        <ColumnDefinition Width="27*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Label Content="creature Car:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="0" VerticalAlignment="Center" Grid.ColumnSpan="2"/>
+                    <DatePicker x:Name="creatureCarDatePicker1" Grid.Column="4" HorizontalAlignment="Left" Margin="38,3,0,5" Grid.Row="0" SelectedDate="{Binding creatureCar, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Width="144"/>
+                </Grid>
+            </Grid>
+            <Grid x:Name="grid3"  HorizontalAlignment="Left" Margin="11,121,0,0" VerticalAlignment="Top" Height="36" Width="395" Grid.ColumnSpan="4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="42"/>
+                    <ColumnDefinition Width="109"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Label Content="Date Licensed:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,4" Grid.Row="0" VerticalAlignment="Center"/>
+                <DatePicker x:Name="dateLicensedDatePicker" Grid.Column="2" HorizontalAlignment="Left" Margin="17,6,-51,6" Grid.Row="0" SelectedDate="{Binding dateLicensed, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="144" Height="24"/>
+            </Grid>
+            <Grid x:Name="grid4"  HorizontalAlignment="Left" Margin="19,145,0,0" VerticalAlignment="Top" Height="0" Width="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+            </Grid>
+            <Grid x:Name="grid6"  HorizontalAlignment="Left" Margin="11,230,0,0" VerticalAlignment="Top" Height="36" Width="398" Grid.ColumnSpan="4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="22*"/>
+                    <ColumnDefinition Width="23*"/>
+                    <ColumnDefinition Width="15"/>
+                    <ColumnDefinition Width="17*"/>
+                    <ColumnDefinition Width="109*"/>
+                    <ColumnDefinition Width="0*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Label x:Name="KMtextBox" Content="KM:" Grid.Column="0" HorizontalAlignment="Left" Margin="36,0,0,-1" Grid.Row="0" VerticalAlignment="Bottom" Height="30" Width="38" Grid.ColumnSpan="4"/>
+                <TextBox x:Name="kMTextBox" Grid.Column="6" Height="22" Margin="0,8,104,6" Grid.Row="0" Text="{Binding KM, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center"/>
+            </Grid>
+            <Grid x:Name="grid7"  HorizontalAlignment="Left" Margin="11,10,0,0" VerticalAlignment="Top" Height="36" Width="394" Grid.ColumnSpan="4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Label x:Name="numCarTextBox" Content="Number Car:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                <TextBox x:Name="numberCarTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="63,7,-69,6" Grid.Row="0" Text="{Binding numberCar, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="146" RenderTransformOrigin="0.5,0.5" TextChanged="numberCarTextBox_TextChanged">
+                    <TextBox.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform AngleX="2.583"/>
+                            <RotateTransform Angle="0.374"/>
+                            <TranslateTransform X="0.519"/>
+                        </TransformGroup>
+                    </TextBox.RenderTransform>
+                </TextBox>
+            </Grid>
+            <Grid x:Name="grid8"  HorizontalAlignment="Left" Margin="10,157,0,0" VerticalAlignment="Top" Height="36" Width="396" Grid.ColumnSpan="4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Label x:Name="numDoorsTextBox" Content="Num Doors:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                <TextBox x:Name="sumDoorsTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="70,0,-50,6" Grid.Row="0" Text="{Binding sumDoors, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Bottom" Width="144"/>
+            </Grid>
+            <Grid x:Name="grid9"  HorizontalAlignment="Left" Margin="9,193,0,0" VerticalAlignment="Top" Height="36" Width="398" Grid.ColumnSpan="4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Label x:Name="numTravelersTextBox" Content="Num Travelers:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                <TextBox x:Name="sumTravelersTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="55,7,-39,6" Grid.Row="0" Text="{Binding sumTravelers, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="144"/>
+            </Grid>
+            <Button x:Name="addCarBotton" Content="add" Grid.Column="4" HorizontalAlignment="Left" Margin="5,237,0,0" VerticalAlignment="Top" Width="172"  Height="40" Click="addCarBotton_Click"/>
+            <Button x:Name="updateCarBotton" Content="update" Grid.Column="4" HorizontalAlignment="Left" Margin="5,281,0,0" VerticalAlignment="Top" Width="172"  Height="40" Click="updateCarBotton_Click"/>
+            <Button x:Name="deleteCarBotton" Content="delete" Grid.Column="4" HorizontalAlignment="Left" Margin="5,325,0,0" VerticalAlignment="Top" Width="172" Height="40" Click="deleteCarBotton_Click"/>
+            <Image Grid.Column="3" HorizontalAlignment="Left" Height="158" Margin="35,58,0,0" VerticalAlignment="Top" Width="233" Grid.ColumnSpan="2">
+                <Image.OpacityMask>
+                    <ImageBrush/>
+                </Image.OpacityMask>
+            </Image>
+            <Grid x:Name="grid10"  HorizontalAlignment="Left" Margin="11,337,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="339">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Label x:Name="modelTextBox1" Content="model:" Grid.Column="0" HorizontalAlignment="Left" Margin="35,3,0,3" Grid.Row="0" VerticalAlignment="Center"/>
+                <TextBox x:Name="modelTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="69,5,-14,0" Grid.Row="0" Text="{Binding model, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Top" Width="144"/>
+            </Grid>
+            <Grid x:Name="grid11"  HorizontalAlignment="Left" Margin="12,318,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="335">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+            </Grid>
+            <Grid x:Name="grid12" Grid.Column="2"  HorizontalAlignment="Left" Margin="117,359,0,0" VerticalAlignment="Top">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Label x:Name="sizeMotorTextBox1" Content="size Motor:" Grid.Column="0" HorizontalAlignment="Left" Margin="-277,51,0,-41" Grid.Row="0" VerticalAlignment="Center"/>
+                <TextBox x:Name="sizeMotorTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="-151,51,0,-39" Grid.Row="0" Text="{Binding sizeMotor, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="142"/>
+            </Grid>
+            <Button x:Name="typeCar" Content="Type Car:" HorizontalAlignment="Center" Margin="89,302,163,0" VerticalAlignment="Top" Width="145" IsEnabled="False" FontFamily="Sitka Small" FontStyle="Italic" Grid.ColumnSpan="3" Height="35" FontSize="18"/>
+
+            <ComboBox x:Name="numberCarsComboBox" HorizontalAlignment="Left" Margin="161,18,0,0" VerticalAlignment="Top" Width="139" SelectionChanged="numberCarsComboBox_SelectionChanged" Grid.ColumnSpan="3"/>
+            <Grid x:Name="grid14" DataContext="{StaticResource tybeCarViewSource}" HorizontalAlignment="Left" Margin="147,367,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="221">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Label Content="name:" Grid.Column="0" HorizontalAlignment="Left" Margin="-100,9,0,-3" Grid.Row="0" VerticalAlignment="Center"/>
+                <ComboBox x:Name="nameComboBox" HorizontalAlignment="Left" Height="Auto" ItemsSource="{Binding}" Margin="17,10,-11,0" Grid.Row="0" VerticalAlignment="Top" Width="140" Grid.ColumnSpan="2">
+                    <ComboBoxItem Content="מאזדה"/>
+                    <ComboBoxItem Content="מצובישי"/>
+                    <ComboBoxItem Content="טיוטה"/>
+                    <ComboBoxItem Content="שברולט"/>
+                    <ComboBoxItem Content="הונדה"/>
+                    <ComboBoxItem Content="סוברו"/>
+                    <ComboBoxItem Content="לקסוס"/>
+
+                </ComboBox>
+            </Grid>
+            <Label Content="" HorizontalAlignment="Left" Margin="45,271,0,0" VerticalAlignment="Top"/>
+            <ComboBox x:Name="automtonCombox" HorizontalAlignment="Left" Margin="161,275,0,0" VerticalAlignment="Top" Width="139" SelectionChanged="ComboBox_SelectionChanged_1" Grid.ColumnSpan="3">
+                <ComboBoxItem Content=" notAutomat"/>
+                <ComboBoxItem Content=" automat"/>
+            </ComboBox >
+            <Label Content="automaton" HorizontalAlignment="Left" Margin="25,271,0,0" VerticalAlignment="Top"/>
+        </Grid>
+        <Image Margin="454,10,360,417" Source="images (8).jpg" Stretch="Fill"/>
+    </Grid>
+</Window>

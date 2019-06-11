@@ -1,0 +1,7 @@
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\DAL\bin\Debug\DAL.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\DAL\bin\Debug\DAL.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\DAL\bin\Debug\BE.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\DAL\bin\Debug\BE.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\DAL\obj\Debug\DAL.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\DAL\obj\Debug\DAL.pdb

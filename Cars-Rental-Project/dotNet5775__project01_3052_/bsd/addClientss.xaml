@@ -1,0 +1,178 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:BE="clr-namespace:BE;assembly=BE" mc:Ignorable="d" x:Class="PLfrom.client"
+        Title="client" Height="400" Width="600" HorizontalAlignment="Center" VerticalAlignment="Center" Loaded="Window_Loaded_1">
+    <Window.Resources>
+        <CollectionViewSource x:Key="clientViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Client}, CreateList=True}"/>
+        <CollectionViewSource x:Key="tybeCarViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:TybeCar}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="165*"/>
+            <ColumnDefinition Width="180*"/>
+            <ColumnDefinition Width="247*"/>
+        </Grid.ColumnDefinitions>
+        <Grid x:Name="grid1" DataContext="{StaticResource clientViewSource}" HorizontalAlignment="Left" Margin="14,36,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="326">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="125"/>
+                <ColumnDefinition Width="1"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="ID:" Grid.Column="1" HorizontalAlignment="Left" Margin="13,9,0,-1" Grid.Row="0" VerticalAlignment="Center" FontSize="15" FontWeight="Bold" Width="115" Grid.ColumnSpan="2"/>
+            <TextBox x:Name="iDClientTextBox" Grid.Column="2" Height="24" Margin="45,7,-183,7" Grid.Row="0" Text="{Binding IDClient, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="140"/>
+        </Grid>
+        <Grid x:Name="grid2" DataContext="{StaticResource clientViewSource}" HorizontalAlignment="Left" Margin="22,66,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="322">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" MinWidth="161"/>
+                <ColumnDefinition Width="Auto" MinWidth="161"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="first name" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="0" VerticalAlignment="Center" Height="26" Width="109" FontSize="15" FontWeight="Bold"/>
+            <TextBox x:Name="nameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3,4,0,4" Grid.Row="0" Text="{Binding name, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="140"/>
+        </Grid>
+        <Grid x:Name="grid3" DataContext="{StaticResource clientViewSource}" HorizontalAlignment="Left" Margin="28,91,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="317">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="last Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="0,3" Grid.Row="0" VerticalAlignment="Center" FontSize="15" FontWeight="Bold"/>
+            <TextBox x:Name="lastNameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="73,5,-56,7" Grid.Row="0" Text="{Binding lastName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="140"/>
+        </Grid>
+        <Grid x:Name="grid4" DataContext="{StaticResource clientViewSource}" HorizontalAlignment="Left" Margin="30,117,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="314">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="date Of Birth:" Grid.Column="0" HorizontalAlignment="Left" Margin="-3,3,0,3" Grid.Row="0" VerticalAlignment="Center" FontSize="15" FontWeight="Bold" Width="111"/>
+            <DatePicker x:Name="dateOfBirthDatePicker" Grid.Column="1" HorizontalAlignment="Left" Margin="49,6,-35,6" Grid.Row="0" SelectedDate="{Binding dateOfBirth, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="140" Height="24" FontSize="15" FontWeight="Bold"/>
+        </Grid>
+        <Grid x:Name="grid5" DataContext="{StaticResource clientViewSource}" HorizontalAlignment="Left" Margin="25,143,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="318">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="address Client:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center" FontSize="15" FontWeight="Bold"/>
+            <TextBox x:Name="addressClientTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="42,7,-35,5" Grid.Row="0" Text="{Binding addressClient, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="140"/>
+        </Grid>
+        <Grid x:Name="grid6" DataContext="{StaticResource clientViewSource}" HorizontalAlignment="Left" Margin="28,173,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="321">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="Email:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center" FontSize="15" FontWeight="Bold"/>
+            <TextBox x:Name="emailTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="100,6,-71,7" Grid.Row="0" Text="{Binding Email, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="140"/>
+        </Grid>
+        <Grid x:Name="grid7" DataContext="{StaticResource clientViewSource}" HorizontalAlignment="Left" Margin="14,197,0,0" VerticalAlignment="Top" Grid.Column="1" Width="153">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="-" Grid.Column="0" HorizontalAlignment="Left" Margin="10,-2,0,8" Grid.Row="0" VerticalAlignment="Center" FontSize="20" FontWeight="Bold" Grid.ColumnSpan="2"/>
+            <TextBox x:Name="numTelephoneTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="27,9,0,11" Grid.Row="0" Text="{Binding numTelephone, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+        </Grid>
+        <Grid x:Name="grid8" DataContext="{StaticResource clientViewSource}" HorizontalAlignment="Left" Margin="26,199,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="187">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="Telephone:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center" FontWeight="Bold" FontSize="15"/>
+            <ComboBox x:Name="codeTelephoneComboBox" Grid.Column="1" DisplayMemberPath="codeTelephone" HorizontalAlignment="Left" Height="Auto" ItemsSource="{Binding}" Margin="15,7,0,7" Grid.Row="0" VerticalAlignment="Center" Width="57">
+                <ComboBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <VirtualizingStackPanel/>
+                    </ItemsPanelTemplate>
+                </ComboBox.ItemsPanel>
+            </ComboBox>
+        </Grid>
+        <Grid x:Name="grid9" DataContext="{StaticResource clientViewSource}" HorizontalAlignment="Left" Margin="17,222,0,0" VerticalAlignment="Top" Grid.Column="1" Grid.ColumnSpan="2" Width="169">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="-" Grid.Column="1" HorizontalAlignment="Left" Margin="7,-1,0,7" Grid.Row="0" VerticalAlignment="Center" Width="27" FontSize="20" FontWeight="Bold"/>
+            <TextBox x:Name="numPelePhoneTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="24,10,0,10" Grid.Row="0" Text="{Binding numPelePhone, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+        </Grid>
+        <Grid x:Name="grid10" DataContext="{StaticResource clientViewSource}" HorizontalAlignment="Left" Margin="27,228,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="165">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="Pele-Phone:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,-2,0,8" Grid.Row="0" VerticalAlignment="Center" FontSize="15" FontWeight="Bold"/>
+            <ComboBox x:Name="codePelePhoneComboBox" Grid.Column="1" DisplayMemberPath="codePelePhone" HorizontalAlignment="Left" Height="Auto" ItemsSource="{Binding}" Margin="10,5,-3,9" Grid.Row="0" VerticalAlignment="Center" Width="57">
+                <ComboBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <VirtualizingStackPanel/>
+                    </ItemsPanelTemplate>
+                </ComboBox.ItemsPanel>
+            </ComboBox>
+        </Grid>
+        <Grid x:Name="grid11" DataContext="{StaticResource clientViewSource}" HorizontalAlignment="Left" Margin="88,270,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="255">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="credit Cerd:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center" FontSize="15" FontWeight="Bold"/>
+            <TextBox x:Name="creditCerdTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="1,6,0,6" Grid.Row="0" Text="{Binding creditCerd, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="144"/>
+        </Grid>
+        <Grid x:Name="grid12" DataContext="{StaticResource clientViewSource}" HorizontalAlignment="Left" Margin="95,298,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="262">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="CVV:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,6,0,0" Grid.Row="0" VerticalAlignment="Center" FontSize="15" FontWeight="Bold"/>
+            <TextBox x:Name="cVVTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="46,6,-23,6" Grid.Row="0" Text="{Binding CVV, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="144"/>
+        </Grid>
+        <Grid x:Name="grid13" DataContext="{StaticResource clientViewSource}" HorizontalAlignment="Left" Margin="90,331,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="256">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="16"/>
+                <ColumnDefinition Width="92"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="validity:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,0,0,6" Grid.Row="0" VerticalAlignment="Center" FontSize="15" FontWeight="Bold"/>
+            <DatePicker x:Name="validityDatePicker" Grid.Column="2" HorizontalAlignment="Left" Margin="11,2,-62,6" Grid.Row="0" SelectedDate="{Binding validity, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" FontSize="15" FontWeight="Bold" Width="144"/>
+        </Grid>
+        <Button Content="delete" Grid.Column="2" HorizontalAlignment="Left" Margin="49,317,0,0" VerticalAlignment="Top" Width="150" Height="40" FontSize="15" FontWeight="Bold"/>
+        <Button Content="update" Grid.Column="2" HorizontalAlignment="Left" Margin="49,273,0,0" VerticalAlignment="Top" Width="150" FontSize="15" FontWeight="Bold" Height="40"/>
+        <Button Content="add" Grid.Column="2" HorizontalAlignment="Left" Margin="49,229,0,0" VerticalAlignment="Top" Width="150" FontSize="15" FontWeight="Bold" Height="40"/>
+
+    </Grid>
+</Window>

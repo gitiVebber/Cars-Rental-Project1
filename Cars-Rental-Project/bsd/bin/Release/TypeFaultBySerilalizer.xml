@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfTybeFault xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TybeFault>
+    <numberFault>5678</numberFault>
+    <nameFault>fghj</nameFault>
+    <priceOfFault>78</priceOfFault>
+    <insurance>handicap insurance</insurance>
+  </TybeFault>
+  <TybeFault>
+    <numberFault>1</numberFault>
+    <nameFault>שמשה התפוצצה</nameFault>
+    <priceOfFault>200</priceOfFault>
+    <insurance>comprehensive</insurance>
+  </TybeFault>
+  <TybeFault>
+    <numberFault>11</numberFault>
+    <nameFault>מראה התפוצצה</nameFault>
+    <priceOfFault>200</priceOfFault>
+    <insurance>handicap insurance</insurance>
+  </TybeFault>
+</ArrayOfTybeFault>

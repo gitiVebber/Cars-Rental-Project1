@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <tybeCar>
+      <name>טיוטה</name>
+      <model>101-w</model>
+      <sizeMotor>9</sizeMotor>
+    </tybeCar>
+    <LicensePlate>6665366</LicensePlate>
+    <numberCar>10000000</numberCar>
+    <dateLicensed>2012-05-05T00:00:00</dateLicensed>
+    <creatureCar>2012-04-03T00:00:00</creatureCar>
+    <isAutomat>automaton</isAutomat>
+    <sumTravelers>9</sumTravelers>
+    <sumDoors>3</sumDoors>
+    <KM>900000</KM>
+    <adressBranch>nn</adressBranch>
+    <faults />
+  </Car>
+  <Car>
+    <tybeCar>
+      <name>שברולט</name>
+      <model>2</model>
+      <sizeMotor>2</sizeMotor>
+    </tybeCar>
+    <LicensePlate>72</LicensePlate>
+    <numberCar>10000002</numberCar>
+    <dateLicensed>2015-07-02T00:00:00</dateLicensed>
+    <creatureCar>2015-06-02T00:00:00</creatureCar>
+    <isAutomat>notAutomaton</isAutomat>
+    <sumTravelers>2</sumTravelers>
+    <sumDoors>5</sumDoors>
+    <KM>22</KM>
+    <adressBranch>beny brak</adressBranch>
+    <faults />
+  </Car>
+  <Car>
+    <tybeCar>
+      <name>טיוטה</name>
+      <model>124</model>
+      <sizeMotor>412</sizeMotor>
+    </tybeCar>
+    <LicensePlate>41412</LicensePlate>
+    <numberCar>10000004</numberCar>
+    <dateLicensed>2015-05-31T00:00:00</dateLicensed>
+    <creatureCar>2015-06-01T00:00:00</creatureCar>
+    <isAutomat>notAutomaton</isAutomat>
+    <sumTravelers>142</sumTravelers>
+    <sumDoors>2</sumDoors>
+    <KM>1234</KM>
+    <adressBranch>beytar</adressBranch>
+    <faults />
+  </Car>
+  <Car>
+    <tybeCar>
+      <name>מאזדה</name>
+      <model>2</model>
+      <sizeMotor>2</sizeMotor>
+    </tybeCar>
+    <LicensePlate>9917650</LicensePlate>
+    <numberCar>10000005</numberCar>
+    <dateLicensed>2015-06-10T00:00:00</dateLicensed>
+    <creatureCar>2015-06-03T00:00:00</creatureCar>
+    <isAutomat>automaton</isAutomat>
+    <sumTravelers>2</sumTravelers>
+    <sumDoors>2</sumDoors>
+    <KM>2</KM>
+    <adressBranch>jeruzalem</adressBranch>
+    <faults />
+  </Car>
+  <Car>
+    <tybeCar>
+      <name>מצובישי</name>
+      <model>546</model>
+      <sizeMotor>5667</sizeMotor>
+    </tybeCar>
+    <LicensePlate>9999</LicensePlate>
+    <numberCar>10000006</numberCar>
+    <dateLicensed>2015-02-22T00:00:00</dateLicensed>
+    <creatureCar>2015-05-31T00:00:00</creatureCar>
+    <isAutomat>notAutomaton</isAutomat>
+    <sumTravelers>656</sumTravelers>
+    <sumDoors>6</sumDoors>
+    <KM>4657</KM>
+    <adressBranch>jeruzalem</adressBranch>
+    <faults />
+  </Car>
+  <Car>
+    <tybeCar>
+      <name>טיוטה</name>
+      <model>123</model>
+      <sizeMotor>500</sizeMotor>
+    </tybeCar>
+    <LicensePlate>555555</LicensePlate>
+    <numberCar>10000007</numberCar>
+    <dateLicensed>2016-06-08T00:00:00</dateLicensed>
+    <creatureCar>2017-01-17T00:00:00</creatureCar>
+    <isAutomat>automaton</isAutomat>
+    <sumTravelers>6</sumTravelers>
+    <sumDoors>4</sumDoors>
+    <KM>120</KM>
+    <adressBranch>beny brak</adressBranch>
+    <faults />
+  </Car>
+</ArrayOfCar>

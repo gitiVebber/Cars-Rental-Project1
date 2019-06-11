@@ -1,0 +1,60 @@
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Release\BE.dll
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Release\BE.pdb
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.dll
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Release\BE.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Release\BE.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.pdb
+E:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Release\BE.dll
+E:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Release\BE.pdb
+E:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+E:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.dll
+E:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Release\BE.pdb
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\bin\Release\BE.dll
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\bin\Release\BE.pdb
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\obj\Release\BE.dll
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\obj\Release\BE.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\bin\Release\BE.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\bin\Release\BE.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\obj\Release\BE.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\obj\Release\BE.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+I:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\bin\Release\BE.dll
+I:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\bin\Release\BE.pdb
+I:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+I:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\obj\Release\BE.dll
+I:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\BE\obj\Release\BE.pdb
+E:\dotNet5775__project01_3052_9849\BE\bin\Release\BE.dll
+E:\dotNet5775__project01_3052_9849\BE\bin\Release\BE.pdb
+E:\dotNet5775__project01_3052_9849\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+E:\dotNet5775__project01_3052_9849\BE\obj\Release\BE.dll
+E:\dotNet5775__project01_3052_9849\BE\obj\Release\BE.pdb
+F:\dotNet5775__project01_3052_9849\BE\bin\Release\BE.dll
+F:\dotNet5775__project01_3052_9849\BE\bin\Release\BE.pdb
+F:\dotNet5775__project01_3052_9849\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+F:\dotNet5775__project01_3052_9849\BE\obj\Release\BE.dll
+F:\dotNet5775__project01_3052_9849\BE\obj\Release\BE.pdb
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\BE\bin\Release\BE.dll
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\BE\bin\Release\BE.pdb
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\BE\obj\Release\BE.dll
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\BE\obj\Release\BE.pdb
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\bin\Release\BE.dll
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\bin\Release\BE.pdb
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\obj\Release\BE.dll
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\obj\Release\BE.pdb
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\bin\Release\BE.dll
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\bin\Release\BE.pdb
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\obj\Release\BE.dll
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\obj\Release\BE.pdb
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\bin\Release\BE.dll
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\bin\Release\BE.pdb
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\obj\Release\BE.csprojResolveAssemblyReference.cache
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\obj\Release\BE.dll
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\BE\obj\Release\BE.pdb

@@ -1,0 +1,24 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:BE="clr-namespace:BE;assembly=BE" mc:Ignorable="d" x:Class="bsd.getAllFaults"
+        Title="getAllFaults" Height="600" Width="700" Loaded="Window_Loaded_1">
+    <Window.Resources>
+        <CollectionViewSource x:Key="faultViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Fault}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid Width="700" Height="600" DataContext="{StaticResource faultViewSource}">
+        <Label x:Name="lable1" Content="select all faults of the system" HorizontalAlignment="Left" Margin="101,27,0,0" VerticalAlignment="Top" FontSize="36"/>
+        <Label x:Name="lable2" Content="that came by laches" HorizontalAlignment="Left" Margin="114,90,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <DataGrid x:Name="faultDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="117,230,134,121" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="dateOfFaultColumn" Binding="{Binding dateOfFault}" Header="date Of Fault" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="garageOfFixColumn" Binding="{Binding garageOfFix}" Header="garage Of Fix" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="isWearColumn" Binding="{Binding isWear}" Header="is Wear" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="numberCarColumn" Binding="{Binding numberCar}" Header="number Car" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="numberFaultColumn" Binding="{Binding numberFault}" Header="number Fault" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="priceOfFaultColumn" Binding="{Binding priceOfFault}" Header="price Of Fault" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

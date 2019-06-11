@@ -1,0 +1,13 @@
+﻿<Window x:Class="bsd.addClient2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="addClient2" Height="300" Width="300">
+    <Grid>
+        <Button x:Name="addBotton" Content="add" HorizontalAlignment="Left" Margin="207,192,0,0" VerticalAlignment="Top" Width="75" Click="addBotton_Click"/>
+        <Button x:Name="deleteBotton" Content="delete" HorizontalAlignment="Left" Margin="207,140,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="updeteBotton" Content="updete" HorizontalAlignment="Left" Margin="207,74,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="ID" HorizontalAlignment="Left" Margin="50,37,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="lableID" HorizontalAlignment="Left" Height="23" Margin="114,40,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,35 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:BE="clr-namespace:BE;assembly=BE" mc:Ignorable="d" x:Class="bsd.getClients"
+        Title="getClients" Height="700" Width="700" Loaded="Window_Loaded_1">
+    <Window.Resources>
+        <CollectionViewSource x:Key="clientViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Client}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid Width="800" Height="660" DataContext="{StaticResource clientViewSource}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="160*"/>
+            <ColumnDefinition Width="11*"/>
+            <ColumnDefinition Width="629*"/>
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="Combox" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="146,41,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged_1"/>
+        <Label x:Name="lable2" Content="select clients by month of birthday:" HorizontalAlignment="Left" Margin="146,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.474,1.256" Grid.ColumnSpan="3"/>
+        <Label x:Name="lable1" Content="all clients:" Grid.Column="2" HorizontalAlignment="Left" Margin="132,41,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.915,0.5"/>
+        <Label x:Name="lable3" Content="select all clients that get gps:" HorizontalAlignment="Left" Margin="40,72,0,0" VerticalAlignment="Top" Width="283" FontSize="20" Grid.ColumnSpan="3"/>
+        <DataGrid x:Name="clientDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="40,135,138,146" RowDetailsVisibilityMode="VisibleWhenSelected" Grid.ColumnSpan="3">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="iDClientColumn" Binding="{Binding IDClient}" Header="    IDClient    " Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="lastNameColumn" Binding="{Binding lastName}" Header="last Name" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="nameColumn" Binding="{Binding name}" Header="first name" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="addressClientColumn" Binding="{Binding addressClient}" Header="address Client" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="codePelePhoneColumn" Binding="{Binding codePelePhone}" Header="        " Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="numPelePhoneColumn" Binding="{Binding numPelePhone}" Header="num Pele Phone" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="dateOfBirthColumn" Binding="{Binding dateOfBirth}" Header="    date Of Birth    " Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="emailColumn" Binding="{Binding Email}" Header="         Email       " Width="SizeToHeader"/>
+                
+               
+               
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

@@ -1,0 +1,48 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:BE="clr-namespace:BE;assembly=BE" mc:Ignorable="d" x:Class="bsd.getAllCar"
+        Title="getAllCar" Height="600" Width="800" Loaded="Window_Loaded_1">
+    <Window.Resources>
+        <CollectionViewSource x:Key="carViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Car}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource carViewSource}" Width="800" Height="600" Margin="110,0,-618,-331">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="7*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="138*"/>
+            <ColumnDefinition Width="31*"/>
+            <ColumnDefinition Width="631*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="carDataGrid" AutoGenerateColumns="False" Grid.ColumnSpan="3" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="-288,35,438,260" RowDetailsVisibilityMode="VisibleWhenSelected" Width="650" Grid.RowSpan="2" IsEnabled="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="adressBranchColumn" Binding="{Binding adressBranch}" Header="adress Branch" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="creatureCarColumn" Binding="{Binding creatureCar}" Header="creature Car" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="dateLicensedColumn" Binding="{Binding dateLicensed}" Header="date Licensed" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="isAutomatColumn" Binding="{Binding isAutomat}" Header="is Automat" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="kMColumn" Binding="{Binding KM}" Header="KM" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="licensePlateColumn" Binding="{Binding LicensePlate}" Header="License Plate" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="numberCarColumn" Binding="{Binding numberCar}" Header="number Car" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="sumDoorsColumn" Binding="{Binding sumDoors}" Header="sum Doors" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="sumTravelersColumn" Binding="{Binding sumTravelers}" Header="sum Travelers" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <ComboBox x:Name="sumDoorsCombox" HorizontalAlignment="Left" Margin="-98,-44,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged_1"/>
+
+        <ComboBox x:Name="girCombox" HorizontalAlignment="Left" Margin="-98,-48,0,101" Width="120" SelectionChanged="girCombox_SelectionChanged">
+
+        </ComboBox>
+        <Label x:Name="lable" Content="select according to:" HorizontalAlignment="Left" Margin="-301,-145,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="sit places:" HorizontalAlignment="Left" Margin="-206,-62,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lable2" Content="sum doors:" HorizontalAlignment="Left" Margin="-206,-48,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="is automaton:" HorizontalAlignment="Left" Margin="-206,-52,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lable10" Content="select all cars of the system:" HorizontalAlignment="Left" Margin="-158,-145,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <TextBox x:Name="sitPlaceTextBox" HorizontalAlignment="Left" Height="23" Margin="-101,-58,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="showBotton" Content="show" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Grid.ColumnSpan="3" Margin="115,-57,0,0" Click="showBotton_Click"/>
+        <TextBox x:Name="textBoxProfit" HorizontalAlignment="Left" Height="23" Margin="45,297,0,0" Grid.Row="1" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="114" Grid.ColumnSpan="2" TextChanged="textBoxProfit_TextChanged"/>
+        <Label x:Name="labeltextBoxProfit" Content="the prifit of all cars is:" Margin="-240,297,42,0" Grid.Row="1" VerticalAlignment="Top" FontSize="20"/>
+
+    </Grid>
+</Window>

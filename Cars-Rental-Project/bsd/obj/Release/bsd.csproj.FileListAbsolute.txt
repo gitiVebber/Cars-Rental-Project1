@@ -1,0 +1,369 @@
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.exe.config
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.exe
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.csprojResolveAssemblyReference.cache
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\addCars.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\addFaultForCar.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\allClients.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\client.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\end renting.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\Fault.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllCar.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getClients.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getRentings.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\MainWindow.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\renting.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\tybeFault.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\addCars.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\addFaultForCar.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\allClients.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\client.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\end renting.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\Fault.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllCar.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getClients.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getRentings.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\MainWindow.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\renting.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\tybeFault.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\App.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd_MarkupCompile.cache
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.g.resources
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.Properties.Resources.resources
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.csproj.GenerateResource.Cache
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.exe
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.pdb
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\BE.dll
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\BL.dll
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\DAL.dll
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\BE.pdb
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\BL.pdb
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\DAL.pdb
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.pdb
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\facility.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\facility.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\CarProfit.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\profitCar.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\CarProfit.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\profitCar.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\caspPrice.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\caspPrice.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllFaults.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllFaults.g.cs
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getFaultsByIncidence.baml
+G:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getFaultsByIncidence.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.exe.config
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.exe
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.exe
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\BE.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\BL.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\DAL.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\BE.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\BL.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\bin\Release\DAL.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.csprojResolveAssemblyReference.cache
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\addCars.baml
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\CarProfit.baml
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\client.baml
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\end renting.baml
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\Fault.baml
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllCar.baml
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllFaults.baml
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getClients.baml
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getFaultsByIncidence.baml
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getRentings.baml
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\MainWindow.baml
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\caspPrice.baml
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\renting.baml
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\tybeFault.baml
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\addCars.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\CarProfit.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\client.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\end renting.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\Fault.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllCar.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllFaults.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getClients.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getFaultsByIncidence.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\getRentings.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\MainWindow.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\caspPrice.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\renting.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\tybeFault.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\App.g.cs
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd_MarkupCompile.cache
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.g.resources
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.Properties.Resources.resources
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.csproj.GenerateResource.Cache
+E:\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.exe.config
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.exe
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.pdb
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.csprojResolveAssemblyReference.cache
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\addCars.baml
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\CarProfit.baml
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\client.baml
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\end renting.baml
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\Fault.baml
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllCar.baml
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllFaults.baml
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\getClients.baml
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\getFaultsByIncidence.baml
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\getRentings.baml
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\MainWindow.baml
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\caspPrice.baml
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\renting.baml
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\tybeFault.baml
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\addCars.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\CarProfit.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\client.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\end renting.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\Fault.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllCar.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllFaults.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\getClients.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\getFaultsByIncidence.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\getRentings.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\MainWindow.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\caspPrice.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\renting.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\tybeFault.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\App.g.cs
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd_MarkupCompile.cache
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.g.resources
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.Properties.Resources.resources
+E:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.csproj.GenerateResource.Cache
+E:\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.exe
+E:\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.pdb
+E:\dotNet5775__project01_3052_9849\bsd\bin\Release\BE.dll
+E:\dotNet5775__project01_3052_9849\bsd\bin\Release\BL.dll
+E:\dotNet5775__project01_3052_9849\bsd\bin\Release\DAL.dll
+E:\dotNet5775__project01_3052_9849\bsd\bin\Release\BE.pdb
+E:\dotNet5775__project01_3052_9849\bsd\bin\Release\BL.pdb
+E:\dotNet5775__project01_3052_9849\bsd\bin\Release\DAL.pdb
+D:\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.exe.config
+D:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.exe
+D:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.pdb
+F:\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.exe.config
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.exe
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.pdb
+F:\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.exe
+F:\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.pdb
+F:\dotNet5775__project01_3052_9849\bsd\bin\Release\BE.dll
+F:\dotNet5775__project01_3052_9849\bsd\bin\Release\BL.dll
+F:\dotNet5775__project01_3052_9849\bsd\bin\Release\DAL.dll
+F:\dotNet5775__project01_3052_9849\bsd\bin\Release\BE.pdb
+F:\dotNet5775__project01_3052_9849\bsd\bin\Release\BL.pdb
+F:\dotNet5775__project01_3052_9849\bsd\bin\Release\DAL.pdb
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.csprojResolveAssemblyReference.cache
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\addCars.baml
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\CarProfit.baml
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\client.baml
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\end renting.baml
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\Fault.baml
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllCar.baml
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllFaults.baml
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\getClients.baml
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\getFaultsByIncidence.baml
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\getRentings.baml
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\MainWindow.baml
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\caspPrice.baml
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\renting.baml
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\tybeFault.baml
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\addCars.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\CarProfit.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\client.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\end renting.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\Fault.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllCar.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllFaults.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\getClients.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\getFaultsByIncidence.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\getRentings.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\MainWindow.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\caspPrice.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\renting.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\tybeFault.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\App.g.cs
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd_MarkupCompile.cache
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.g.resources
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.Properties.Resources.resources
+F:\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.csproj.GenerateResource.Cache
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.exe.config
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.exe
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.pdb
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.exe
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.pdb
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\bin\Release\BE.dll
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\bin\Release\BL.dll
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\bin\Release\DAL.dll
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\bin\Release\BE.pdb
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\bin\Release\BL.pdb
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\bin\Release\DAL.pdb
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.csprojResolveAssemblyReference.cache
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\addCars.baml
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\client.baml
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\end renting.baml
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\Fault.baml
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllCar.baml
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllFaults.baml
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\getClients.baml
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\getFaultsByIncidence.baml
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\getRentings.baml
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\MainWindow.baml
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\caspPrice.baml
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\renting.baml
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\tybeFault.baml
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\addCars.g.cs
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\client.g.cs
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\end renting.g.cs
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\Fault.g.cs
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllCar.g.cs
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\getAllFaults.g.cs
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\getClients.g.cs
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\getFaultsByIncidence.g.cs
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\getRentings.g.cs
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\MainWindow.g.cs
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\caspPrice.g.cs
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\renting.g.cs
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\tybeFault.g.cs
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\App.g.cs
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd_MarkupCompile.cache
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.g.resources
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.Properties.Resources.resources
+E:\פרויקט דוט נט\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.csproj.GenerateResource.Cache
+C:\Users\reicher\Desktop\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.exe.config
+C:\Users\reicher\Desktop\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.exe
+C:\Users\reicher\Desktop\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.pdb
+C:\Users\vebber.ACAD.005\Downloads\dotNet5775__project01_3052_9849 (4)\dotNet5775__project01_3052_9849\bsd\bin\Release\bsd.exe.config
+C:\Users\vebber.ACAD.005\Downloads\dotNet5775__project01_3052_9849 (4)\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.exe
+C:\Users\vebber.ACAD.005\Downloads\dotNet5775__project01_3052_9849 (4)\dotNet5775__project01_3052_9849\bsd\obj\Release\bsd.pdb
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\bsd.exe.config
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.exe
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.pdb
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\bsd.exe
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\bsd.pdb
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\BE.dll
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\BL.dll
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\DAL.dll
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\BE.pdb
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\BL.pdb
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\DAL.pdb
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.csprojResolveAssemblyReference.cache
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\addCars.baml
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\client.baml
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\end renting.baml
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\Fault.baml
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getAllCar.baml
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getAllFaults.baml
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getClients.baml
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getFaultsByIncidence.baml
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getRentings.baml
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\MainWindow.baml
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\caspPrice.baml
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\renting.baml
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\tybeFault.baml
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\addCars.g.cs
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\client.g.cs
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\end renting.g.cs
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\Fault.g.cs
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getAllCar.g.cs
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getAllFaults.g.cs
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getClients.g.cs
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getFaultsByIncidence.g.cs
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getRentings.g.cs
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\MainWindow.g.cs
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\caspPrice.g.cs
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\renting.g.cs
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\tybeFault.g.cs
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\App.g.cs
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd_MarkupCompile.cache
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.g.resources
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.Properties.Resources.resources
+F:\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.csproj.GenerateResource.Cache
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\bsd.exe.config
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.exe
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.pdb
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\bsd.exe
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\bsd.pdb
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\BE.dll
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\BL.dll
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\DAL.dll
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\BE.pdb
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\BL.pdb
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\DAL.pdb
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.csprojResolveAssemblyReference.cache
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\addCars.baml
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\client.baml
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\end renting.baml
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\Fault.baml
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getAllCar.baml
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getAllFaults.baml
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getClients.baml
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getFaultsByIncidence.baml
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getRentings.baml
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\MainWindow.baml
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\caspPrice.baml
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\renting.baml
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\tybeFault.baml
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\addCars.g.cs
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\client.g.cs
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\end renting.g.cs
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\Fault.g.cs
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getAllCar.g.cs
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getAllFaults.g.cs
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getClients.g.cs
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getFaultsByIncidence.g.cs
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getRentings.g.cs
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\MainWindow.g.cs
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\caspPrice.g.cs
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\renting.g.cs
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\tybeFault.g.cs
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\App.g.cs
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd_MarkupCompile.cache
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.g.resources
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.Properties.Resources.resources
+F:\שנה ב\dotNet\project\מעודכן\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.csproj.GenerateResource.Cache
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\bsd.exe.config
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\bsd.exe
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\bsd.pdb
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\BE.dll
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\BL.dll
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\DAL.dll
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\BE.pdb
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\BL.pdb
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\bin\Release\DAL.pdb
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.csprojResolveAssemblyReference.cache
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\addCars.baml
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\client.baml
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\end renting.baml
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\Fault.baml
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getAllCar.baml
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getAllFaults.baml
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getClients.baml
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getFaultsByIncidence.baml
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getRentings.baml
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\MainWindow.baml
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\caspPrice.baml
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\renting.baml
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\tybeFault.baml
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\addCars.g.cs
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\client.g.cs
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\end renting.g.cs
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\Fault.g.cs
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getAllCar.g.cs
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getAllFaults.g.cs
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getClients.g.cs
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getFaultsByIncidence.g.cs
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\getRentings.g.cs
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\MainWindow.g.cs
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\caspPrice.g.cs
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\renting.g.cs
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\tybeFault.g.cs
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\App.g.cs
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd_MarkupCompile.cache
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.g.resources
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.Properties.Resources.resources
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.csproj.GenerateResource.Cache
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.exe
+D:\לא למחוק בשום אופן\Desktop\dotNet5775__project02_3052_9849\dotNet5775__project02_3052_9849\bsd\obj\Release\bsd.pdb

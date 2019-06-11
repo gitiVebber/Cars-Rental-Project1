@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<ArrayOfFault xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fault>
+    <typeFault>
+      <numberFault>5678</numberFault>
+      <nameFault>fghj</nameFault>
+      <priceOfFault>78</priceOfFault>
+      <insurance>handicap insurance</insurance>
+    </typeFault>
+    <numberFault>111</numberFault>
+    <numberCar>9917650</numberCar>
+    <numberCall>0</numberCall>
+    <dateOfFault>2015-06-23T00:00:00</dateOfFault>
+    <isWear>true</isWear>
+    <priceOfFault>78</priceOfFault>
+    <garageOfFix>גוש עציון</garageOfFix>
+  </Fault>
+  <Fault>
+    <typeFault>
+      <numberFault>5678</numberFault>
+      <nameFault>fghj</nameFault>
+      <priceOfFault>78</priceOfFault>
+      <insurance>handicap insurance</insurance>
+    </typeFault>
+    <numberFault>123</numberFault>
+    <numberCar>72</numberCar>
+    <numberCall>0</numberCall>
+    <dateOfFault>2017-05-17T00:00:00</dateOfFault>
+    <isWear>true</isWear>
+    <priceOfFault>78</priceOfFault>
+    <garageOfFix>גוש עציון</garageOfFix>
+  </Fault>
+  <Fault>
+    <typeFault>
+      <numberFault>5678</numberFault>
+      <nameFault>fghj</nameFault>
+      <priceOfFault>78</priceOfFault>
+      <insurance>handicap insurance</insurance>
+    </typeFault>
+    <numberFault>1234</numberFault>
+    <numberCar>72</numberCar>
+    <numberCall>0</numberCall>
+    <dateOfFault>2017-05-17T00:00:00</dateOfFault>
+    <isWear>true</isWear>
+    <priceOfFault>78</priceOfFault>
+    <garageOfFix>גוש עציון</garageOfFix>
+  </Fault>
+  <Fault>
+    <typeFault>
+      <numberFault>1</numberFault>
+      <nameFault>שמשה התפוצצה</nameFault>
+      <priceOfFault>200</priceOfFault>
+      <insurance>comprehensive</insurance>
+    </typeFault>
+    <numberFault>12</numberFault>
+    <numberCar>72</numberCar>
+    <numberCall>0</numberCall>
+    <dateOfFault>2017-05-17T00:00:00</dateOfFault>
+    <isWear>true</isWear>
+    <priceOfFault>200</priceOfFault>
+    <garageOfFix>גוש עציון</garageOfFix>
+  </Fault>
+  <Fault>
+    <typeFault>
+      <numberFault>1</numberFault>
+      <nameFault>שמשה התפוצצה</nameFault>
+      <priceOfFault>200</priceOfFault>
+      <insurance>comprehensive</insurance>
+    </typeFault>
+    <numberFault>12333</numberFault>
+    <numberCar>72</numberCar>
+    <numberCall>0</numberCall>
+    <dateOfFault>2017-05-17T00:00:00</dateOfFault>
+    <isWear>true</isWear>
+    <priceOfFault>200</priceOfFault>
+    <garageOfFix>גוש עציון</garageOfFix>
+  </Fault>
+  <Fault>
+    <typeFault>
+      <numberFault>11</numberFault>
+      <nameFault>מראה התפוצצה</nameFault>
+      <priceOfFault>200</priceOfFault>
+      <insurance>handicap insurance</insurance>
+    </typeFault>
+    <numberFault>444</numberFault>
+    <numberCar>555555</numberCar>
+    <numberCall>0</numberCall>
+    <dateOfFault>2017-05-24T00:00:00</dateOfFault>
+    <isWear>true</isWear>
+    <priceOfFault>200</priceOfFault>
+    <garageOfFix>גוש עציון</garageOfFix>
+  </Fault>
+  <Fault>
+    <typeFault>
+      <numberFault>1</numberFault>
+      <nameFault>שמשה התפוצצה</nameFault>
+      <priceOfFault>200</priceOfFault>
+      <insurance>comprehensive</insurance>
+    </typeFault>
+    <numberFault>2344</numberFault>
+    <numberCar>555555</numberCar>
+    <numberCall>0</numberCall>
+    <dateOfFault>2017-05-25T00:00:00</dateOfFault>
+    <isWear>true</isWear>
+    <priceOfFault>200</priceOfFault>
+    <garageOfFix>גוש עציון</garageOfFix>
+  </Fault>
+  <Fault>
+    <typeFault>
+      <numberFault>1</numberFault>
+      <nameFault>שמשה התפוצצה</nameFault>
+      <priceOfFault>200</priceOfFault>
+      <insurance>comprehensive</insurance>
+    </typeFault>
+    <numberFault>123456</numberFault>
+    <numberCar>555555</numberCar>
+    <numberCall>0</numberCall>
+    <dateOfFault>2017-05-25T00:00:00</dateOfFault>
+    <isWear>true</isWear>
+    <priceOfFault>200</priceOfFault>
+    <garageOfFix>גוש עציון</garageOfFix>
+  </Fault>
+  <Fault>
+    <typeFault>
+      <numberFault>1</numberFault>
+      <nameFault>שמשה התפוצצה</nameFault>
+      <priceOfFault>200</priceOfFault>
+      <insurance>comprehensive</insurance>
+    </typeFault>
+    <numberFault>8888</numberFault>
+    <numberCar>555555</numberCar>
+    <numberCall>0</numberCall>
+    <dateOfFault>2017-05-27T00:00:00</dateOfFault>
+    <isWear>true</isWear>
+    <priceOfFault>200</priceOfFault>
+    <garageOfFix>תלפיות</garageOfFix>
+  </Fault>
+</ArrayOfFault>

@@ -1,0 +1,5 @@
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Debug\BE.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\bin\Debug\BE.pdb
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Debug\BE.dll
+F:\שנה ב\dotNet\project\dotNet5775__project01_3052_\BE\obj\Debug\BE.pdb
